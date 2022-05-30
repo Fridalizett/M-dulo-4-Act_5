@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=My Name
+Comment=My application which does this
+Icon=/home/dafrifre/act_5/icon.bmp
+Exec=/home/dafrifre/act_5/MOD4_Act_5.py
+Type=Application
+Encoding=UTF-8
+Terminal=false
